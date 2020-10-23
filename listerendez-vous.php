@@ -89,9 +89,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <div class="header-btn">
-                                <a class="ttm-btn ttm-btn-size-md  ttm-btn-bgcolor-info" href="index.php">Deconnexion</a>
-                            </div>
+                           
                         </div>
                     </div>
                 </div>

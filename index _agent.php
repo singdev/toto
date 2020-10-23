@@ -88,9 +88,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <div class="header-btn">
-                                <a class="ttm-btn ttm-btn-size-md  ttm-btn-bgcolor-skincolor" href="#">Connexion</a>
-                            </div>
+                           
                         </div>
                     </div>
                 </div>

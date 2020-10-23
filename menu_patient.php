@@ -15,7 +15,7 @@
                                             </li>
                                             <li ><a href="infos.php">Infos utiles</a></li>
                                             <li ><a href="forum.php">Forum</a></li>
-                                            
+                                            <li ><a href="index.php">Deconnexion</a></li>
                                     
                                         </ul>
                                     </nav>
